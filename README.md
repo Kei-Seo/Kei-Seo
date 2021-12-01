@@ -28,7 +28,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repo=SW-Engineering_kiosk_app" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Kei-Seo/MakeAnythingKotlin.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repoMakeAnythingKotlin" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repo=MakeAnythingKotlin" alt="GitHub Stats" />
     </a>
   </p>
 </div>
