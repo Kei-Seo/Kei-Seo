@@ -1,7 +1,4 @@
-### ✨   hello! 
-##### I am majoring in computer engineering at Chungnam National University.
-![Python](https://img.shields.io/static/v1?label=Python&message=★★☆☆☆&color=white)  ![Java](https://img.shields.io/static/v1?label=Java&message=★★★☆☆&color=white)  ![Kotlin](https://img.shields.io/static/v1?label=Kotlin&message=★☆☆☆☆&color=white)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kei-Seo)](https://github.com/anuraghazra/github-readme-stats)
+
 # ✨ Hi there 👋, Kei here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
