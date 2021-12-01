@@ -49,7 +49,7 @@ __Check out my GitHub repository:__
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Kei-Seo&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-Seo&layout=compact)
+
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/Kei-Seo">Kei-Seo</a>
