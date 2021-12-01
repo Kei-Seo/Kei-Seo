@@ -37,10 +37,10 @@ __Check out my GitHub repository:__
 <h2>👀 My github Stats</h2>
 
 <div>
-<!--   <p align="center">
+  <p align="center">
     <b><em>Now listening to:</em></b> <br/>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Kei-Seo&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
+  </p>
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
