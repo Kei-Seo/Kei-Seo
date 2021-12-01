@@ -47,11 +47,13 @@ __Check out my GitHub repository:__
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kei-Seo" alt="GitHub Stats" /> <br/><br/>
   
 </div>
-
+<div>
+   <p align="center">
 ![My github status](https://github-readme-stats.vercel.app/api?username=Kei-Seo&show_icons=true&include_all_commits=true)
+     
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-Seo&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/Kei-Seo">Kei-Seo</a>
