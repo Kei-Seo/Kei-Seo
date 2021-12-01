@@ -1,6 +1,6 @@
 
 # ✨ Hi there 👋, Kei here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Kei-Seo.repoName) [![GitHub followers](https://img.shields.io/github/followers/Kei-Seo.svg?style=social&label=Follow)](https://github.com/Kei-Seo?tab=followers)<br/>
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
