@@ -44,7 +44,7 @@ __Check out my GitHub repository:__
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kei-Seo" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kei-Seo" alt="GitHub Stats" /> <br/> <br/>
   
 </div>
 
