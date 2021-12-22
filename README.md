@@ -33,6 +33,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/Kei-Seo/MakeAnythingKotlin.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repo=MakeAnythingKotlin" alt="GitHub Stats" />
     </a>
+     <a href="https://github.com/Kei-Seo/AlgorithmDungeon_AD.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repo=AlgorithmDungeon_AD" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
