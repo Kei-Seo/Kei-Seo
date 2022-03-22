@@ -24,9 +24,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-     <a href="https://github.com/Kei-Seo/AI-bot-Matsumoto.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repo=AI-bot-Matsumoto" alt="GitHub Stats" />
-    </a>
+
     <a href="https://github.com/Kei-Seo/SW-Engineering_kiosk_app.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kei-Seo&repo=SW-Engineering_kiosk_app" alt="GitHub Stats" />
     </a>
