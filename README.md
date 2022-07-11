@@ -6,8 +6,6 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/sswADfYA7D8AAAAC/%EB%9A%B1%EC%9D%B4.gif" />
-
 ##***About me***
 
 I am majoring in computer engineering at Chungnam National University. C, C++, Python, android, java and kotlin are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
